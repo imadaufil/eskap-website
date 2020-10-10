@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: À Propos
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
-tags: [About, Archive]
+tags: [À propos, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Nous sommes deux étudiants, Imad A. et Antoine M. en master 2 E-Services à l'Université de Lille et ce blog est le suivi de notre travail du projet **Eskap** développé dans le cadre du module *PLATINE*.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Nous vous conseillons de lire nos publications pour apprendre davantage sur le projet.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+
+Cependant, vous pouvez nous contacter par [mail](mailto:contact.eskap@gmail.com) pour plus d'informations et n'hésitez pas à nous suivre sur nos différents réseaux sociaux : [Instagram](https://www.instagram.com/eskapapp "IG") et [Twitter](https://www.twitter.com/eskapapp "Twitter") pour être au courant rapidement des actulités de notre projet.
+
