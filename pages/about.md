@@ -5,7 +5,7 @@ permalink: /about/
 tags: [À propos, Archive]
 ---
 
-Nous sommes deux étudiants, Imad A. et Antoine M. en master 2 E-Services à l'Université de Lille et ce blog est le suivi de notre travail du projet **Eskap** développé dans le cadre du module *PLATINE*.
+Nous sommes deux étudiants, Imad A. et Antoine M. en master 2 E-Services à l'Université de Lille et ce blog est le suivi de notre travail sur le projet **Eskap** développé dans le cadre du module *PLATINE*.
 
 Nous vous conseillons de lire nos publications pour apprendre davantage sur le projet.
 
