@@ -26,7 +26,7 @@ Voici le résultat qu'on obtient pour les escape games actuellemnt :
 
 ![liste eskaps](../../../assets/img/api_v1.png "Liste des premiers escape games")
 
-<h2 id="frontend">Frontend<h2>
+## Frontend
 
 ### Partie technique
 
