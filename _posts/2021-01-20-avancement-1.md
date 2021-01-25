@@ -1,27 +1,20 @@
 ---
 layout: post
-title: Avancement 1
+title: Mise en place de l'API
 tags: [Flutter, Frontend, Backend]
 color: black
 author: AntoineMeresse
 excerpt_separator: <!--more-->
 ---
 
-Hello ! On revient vers vous pour vous montrer l'avancement de cette semaine.
+La dernière fois, nous t'avons montré le début du développpement avec un affichage qui utilisait seulement des données entrées dans le code mais cette semaine, nous avons mis en place le début de notre API. On vous montre ça dans cette article !
 
 <!--more-->
 
-# Application mobile
-
-La dernière fois, nous vous avons montrer le début de l'application, on utilisait seulement des données entrées dans le code
-pour avoir un début d'affichage.
-
-Mais cette semaine, nous avons mis en place le début de notre API. On vous montre ça tout de suite !
-
 ## Backend
 
-La partie backend est réalisé avec Spring boot.
-Nous avons pour l'instant réalisé 3 routes qui sont :
+La partie backend est réalisée avec Spring boot.
+Nous avons pour l'instant mit en place 3 routes qui sont :
 
 - `http://notreapi/eskaps/` : Pour récupérer les informations de tous les escape games
 - `http://notreapi/users/` : Pour récupérer les informations de nos utilisateurs
@@ -33,7 +26,7 @@ Voici le résultat qu'on obtient pour les escape games actuellemnt :
 
 ![liste eskaps](../../../assets/img/api_v1.png "Liste des premiers escape games")
 
-## Frontend
+<h2 id="frontend">Frontend<h2>
 
 ### Partie technique
 
@@ -46,11 +39,11 @@ Voici une image présentant les blocs :
 
 ![bloc](../../../assets/img/bloc_architecture.png "Architecture Bloc")
 
-Mettre en place cette solution n'a pas été évident, mais le tout semble fonctionner :D
+Mettre en place cette solution n'a pas été évident, mais le tout semble fonctionner 😄
 
 ### Vidéo
 
-Nous allons quand même vous montrer une petite vidéo de notre avancement !
+Nous allons quand même te montrer une petite vidéo de notre avancement !
 
 <iframe width="800" height="500" src="https://youtu.be/rDSxufaPjxg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

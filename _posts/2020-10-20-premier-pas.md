@@ -7,14 +7,14 @@ author: imadaufil
 excerpt_separator: <!--more-->
 ---
 
-Nous revoilà quelques semaines après l'annonce du projet pour vous présenter nos premières idées à travers quelques maquettes.
+Nous revoilà quelques semaines après l'annonce du projet pour te présenter nos premières idées à travers quelques maquettes.
 
 <!--more-->
 
 Réalisation
 ===========
 
-L'élaboration des premières maquettes de l'application on 
+L'élaboration des premières maquettes de l'application s'est faite  - comme toutes jeunes startup à en devenir un leader du marché - sur papier afin de garder une trace de la genèse de ce projet afin de, pourquoi pas, mettre aux enchères ces documents historiques lorsque Eskap sera coté à 2000€ l'action en bourse.
 
 
 Présentation
@@ -22,8 +22,8 @@ Présentation
 
 La maquette réalisé regroupe trois parties générales de l'application : 
 
-* La partie en relation avec la géolocalisation des Escape Game 
-* La partie des Escape Game dans les favoris
+* La partie en relation avec la géolocalisation des Escape Games
+* La partie des Escape Games dans les favoris
 * La partie utilisateur 
 
 
