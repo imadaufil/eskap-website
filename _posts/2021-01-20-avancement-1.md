@@ -45,6 +45,6 @@ Mettre en place cette solution n'a pas été évident, mais le tout semble fonct
 
 Nous allons quand même te montrer une petite vidéo de notre avancement !
 
-<iframe width="800" height="500" src="https://youtu.be/rDSxufaPjxg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/rDSxufaPjxg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Et oui, c'est bien les résultats que nous avons vu précédemment dans la partie API !
