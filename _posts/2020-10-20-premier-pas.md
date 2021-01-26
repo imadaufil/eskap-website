@@ -14,7 +14,7 @@ Nous revoilà quelques semaines après l'annonce du projet pour te présenter no
 Réalisation
 ===========
 
-L'élaboration des premières maquettes de l'application s'est faite  - comme toutes jeunes startup à en devenir un leader du marché - sur papier afin de garder une trace de la genèse de ce projet afin de, pourquoi pas, mettre aux enchères ces documents historiques lorsque Eskap sera coté à 2000€ l'action en bourse.
+L'élaboration des premières maquettes de l'application s'est faite  - comme toutes jeunes startup à en devenir un leader du marché - sur papier afin de garder une trace de la genèse de ce projet pour, pourquoi pas, mettre aux enchères ces documents historiques lorsque Eskap sera coté à 2000€ l'action en bourse.
 
 
 Présentation
