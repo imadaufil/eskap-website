@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notre stratégie de communication
-tags: [Flutter, Frontend, Backend]
+tags: [Communication, Réseaux, Twitter, Instagram, Facebook, Mail]
 color: black
 author: imadaufil
 excerpt_separator: <!--more-->
