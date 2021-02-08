@@ -13,7 +13,7 @@ Aujourd'hui vous allez comprendre pourquoi on est très diversifé sur les rése
 
 ## Réseaux
 
-Vous l'avez sans doute remarqué en bas de page ou dans la section **À Propos**, nous disposons, en plus de notre boite [mail](mailto:contact.eskap@gmail.com), une diversité de réseaux sociaux : Facebook](https://www.facebook.com/eskapapp "FB"), [Instagram](https://www.instagram.com/eskapapp "IG") et [Twitter](https://www.twitter.com/eskapapp "Twitter")
+Vous l'avez sans doute remarqué en bas de page ou dans la section **À Propos**, nous disposons, en plus de notre boite [mail](mailto:contact.eskap@gmail.com), une diversité de réseaux sociaux : [Facebook](https://www.facebook.com/eskapapp "FB"), [Instagram](https://www.instagram.com/eskapapp "IG") et [Twitter](https://www.twitter.com/eskapapp "Twitter")
 
 ## Objectif
 
