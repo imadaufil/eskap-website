@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Premier pas
-tags: [Premier pas, Début, Maquette]
+tags: [Premier pas, Début, Maquette, Prévisions]
 color: black
 author: imadaufil
 excerpt_separator: <!--more-->
@@ -29,3 +29,14 @@ La maquette réalisé regroupe trois parties générales de l'application :
 
 
 ![maquette_1](../../../assets/img/maquette_1.jpg "Maquette 1")
+
+
+Prévisions
+==========
+
+
+Le développement de l'application est une étape qui demande énormement de temps, d'autant plus que nous nous intéréssons à une technologie toute nouvelle qui demande un certain temps d'apprentissage. C'est pourquoi nous avons ajusté nos objectifs pour l'application avec une sortie de l'application en deux étapes.
+
+Dans nos prévisions, la première étape de l'application, pour une sortie en février 2021, regroupera la partie concernant la carte des Escape Games et la liste de ceux-ci ainsi que l'ajout aux favoris avec un espace de connection. 
+
+La deuxième étape, prévu pour l'été 2021, apportera dans son lot un espace utilisateur fonctionnel avec la possibilité d'organiser une sortie entre amis. 
