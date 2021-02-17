@@ -23,9 +23,9 @@ Lien de la présentation : [Diaporama Soutenance Eskap](https://docs.google.com/
 
 ### Vidéo
 
-Nous espérons que cette vidéo vous plaira !
+Nous espérons que cette vidéo vous plaira ! On espère ne pas faire trop d'ombre à tous les réalisateurs de cinéma français 🤣😎
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TMRTCgzAJq0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000" height="600" src="https://www.youtube.com/embed/TMRTCgzAJq0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Affiche
 
@@ -37,6 +37,10 @@ Si tu lis ce post jusqu'à cet endroit, nous te remercions énormément et c'est
 
 Si tu veux tester notre application, nous avons générer un fichier APK signé qui te permettra de tester notre Application. Désolé pour les utilisateurs IOS,
 mais ne vous inquiétez pas, l'application IOS est également prête car je vous rapelle que ce projet a été développé avec Flutter !
+
+Tu as 2 solutions pour la télécharger : un lien ou un QRcode
+
+Lien téléchargement : [Eskap app](https://drive.google.com/file/d/1PVSeqc4Zr62Xys8JGAA2-IVdd0z-9NQQ/view?usp=sharing)
 
 ![Surprise](../../../assets/img/surpriseAPK.png "Lien de téléchargement pour la version de test de l'application Eskap")
 
