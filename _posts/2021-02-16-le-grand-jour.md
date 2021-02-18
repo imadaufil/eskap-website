@@ -56,4 +56,4 @@ Nos stages commencent très bientôt, l'application n'évoluera plus aussi vite,
 
 A très bientôt,
 
-Antoine Méresse & Imad Abdelmouine
+Antoine Méresse & Imad A
